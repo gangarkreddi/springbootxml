@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VolPayHubAlertNotification1>
+	<UniqueReferenceId>UniqueReferenceId</UniqueReferenceId>
+	<SourceSystemId>UniqueReferenceId</SourceSystemId>
+	<EventID />
+	<Contents>
+		<messageSubject>messageSubject</messageSubject>
+		<PaymentControlDataNo>
+			<officeCode>officeCode</officeCode>
+			<branchCode>branchCode</branchCode>
+			<InstructionData>
+				<Source>source</Source>
+				<InstructionType>InstructionType</InstructionType>
+			</InstructionData>
+		</PaymentControlDataNo>
+	</Contents>
+</VolPayHubAlertNotification1>
+	
+	
